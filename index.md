@@ -2,6 +2,6 @@
 
 
 <form>
-  <label for="employeeName"Name:</label><br>
+  <label for="employeeName">Name:</label><br>
   <input type="text" id="employeeName" name="employeeName"><br>
 </form>
