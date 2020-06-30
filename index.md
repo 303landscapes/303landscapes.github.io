@@ -4,12 +4,12 @@
 <form>
   <label for="date">Date:</label><br>
   <input type="date" id="date" name="date"><br>
-
+  <div>
   <label for="employeeName">Employee Name:</label><br>
   <input type="text" id="employeeName" name="employeeName"><br>
 
   <label for="clientName">Client Name:</label><br>
-  <input type="text" id="clientName" name="clientName"<br>
+  <input type="text" id="clientName" name="clientName"><br>
 
   <label for="clientName">Client:</label><br>
   <input list="clients" name="clients">
