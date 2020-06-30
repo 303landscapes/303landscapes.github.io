@@ -2,8 +2,8 @@
 
 
 <form>
-  <label for="date">Date:</label>
-  <input type="date" id="date" name="date">
+  <label for="date">Date:</label><br>
+  <input type="date" id="date" name="date"><br>
 
   <label for="employeeName">Employee Name:</label><br>
   <input type="text" id="employeeName" name="employeeName"><br>
